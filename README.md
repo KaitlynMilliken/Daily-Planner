@@ -4,3 +4,4 @@ Using the power of Local Storage, the user is able to dynamically add and update
 
 Note that this uses a legacy library, Moment.js. 
 
+Git Page: https://kaitlynmilliken.github.io/Daily-Planner/
